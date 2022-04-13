@@ -27,7 +27,7 @@ You can use the website to generate badges: https://shields.io/
 
 <p>
   <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="laskdj github stats" src="https://github-readme-stats.vercel.app/api?username=laskdjlaskdj12&show_icons=true&hide_border=true" />
+    <img width="55%" align="right" alt="laskdj github stats" src="https://github-readme-stats.vercel.app/api?username=ghkdwls30&show_icons=true&hide_border=true" />
   </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
